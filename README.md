@@ -1,7 +1,7 @@
 # 🏫 SVM School Website
 
-A simple and responsive school website for **SVM School**, built using **HTML** and **CSS**.
-
+A simple and responsive school website for **SVM School**, built using **HTML**, **CSS** and **JS**.
+ 
 ## 📄 Description
 
 This website showcases basic information about the school, including:
